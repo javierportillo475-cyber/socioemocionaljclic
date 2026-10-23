@@ -1,0 +1,40 @@
+{
+  "title": "socioemocional",
+  "author": "leonel antonio ozornio barrera, francisco javier perez portillo",
+  "school": "unison caborca",
+  "date": "5/10/26",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "socioemocional.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 7,
+  "mediaFiles": 14,
+  "totalSize": 431211,
+  "files": [
+    "37052e570cd69577a41a1fbe103c60f4-resized.jpg",
+    "58d7c81953eb58d704645f3b882dfd60-resized.jpg",
+    "64ff5c22e299c37f2963847a5d27efba-resized.jpg",
+    "carita_feliz-resized.jpg",
+    "enojados-resized.jpg",
+    "f032e2e64a9e55908188b5f37ed5310b-resized.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imagen_leo_ja_ale-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "llorona-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "socioemocional.jclic",
+    "socioemocional.jclic.js",
+    "triste.jpg"
+  ]
+}
